@@ -17,6 +17,8 @@ Hence it is necessary to identify pneumonia quickly to save  them from any life 
  
 The dataset used in this project is the Chest X_Ray Images(Pneumonia) from kaggle. It consists of training data,testing data and validation data. Training data consist of 5216 images, test data consist of 624 images and validation data consist of 16 images.
 
+The source of the data can be found in the following link (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 
 ## Approach
 
@@ -37,7 +39,7 @@ In this project we are following OSEMN data science workflow. It contains:
 * Navigate to **JupyterNotebook/**  subfolder in the Image-Processing-Using-Deep-Learning repository 
 * Click the file name (Image-Processing-using-Deep-Learning.ipynb) to view the jupyter notebbok
 * To view the project presentation, select **Presentation/** subfolder in the Image-Processing-Using-Deep-Learning repository
-* To view the data file, select **Data/** subfolder in the Image-Processing-Using-Deep-Learning repository and click on (chest_xray) to view the images
+
 
 ## For More Information
 
@@ -48,7 +50,6 @@ For any further informations , contact Janaki at janakipurushothamman@gmail.com
 
 
     ├── JupyterNotebook                    
-    ├── images                    
-    ├── README.md                   
-    ├── Data   
-    ├── Presentation  
+    ├── Presentation                  
+    ├── images                   
+    ├── README.md
