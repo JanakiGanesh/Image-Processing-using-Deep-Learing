@@ -34,8 +34,12 @@ In this project we are following OSEMN data science workflow. It contains:
 
 ## Analysis
 
+Data analysis is made on different chest x_ray images and 7 different convolution neural network is built for better prediction.
+
+The entire code and feauture engineering model work can be found as follows:
+
 * Go to GitHub id @JanakiGanesh
-* Select the repository name  (Image-Processing-using-Deep-Learning)
+* Select the repository name (Image-Processing-using-Deep-Learning)
 * Navigate to **JupyterNotebook/**  subfolder in the Image-Processing-Using-Deep-Learning repository 
 * Click the file name (Image-Processing-using-Deep-Learning.ipynb) to view the jupyter notebbok
 * To view the project presentation, select **Presentation/** subfolder in the Image-Processing-Using-Deep-Learning repository
